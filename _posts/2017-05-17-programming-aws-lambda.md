@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Programming AWS Lambda"
-date:   2017-08-04
+date:   2017-05-17
 categories: aws lambda serverless
 ---
 Amazon Lambda is the part of Amazon Web Services that lets you run your code without provisioning or managing servers. Amazon Lambda is a compute service that enables you to deploy applications and back-end services that operate with zero upfront cost and require no system administration.
